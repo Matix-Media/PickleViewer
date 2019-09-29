@@ -1,10 +1,17 @@
 # PickleViewer
 A simple tool to create and read pickle files.
 
+### What can PickleViewer do?
+With PickleViewer you can easly view and edit large Pickle Files.
+
 ## Version 0.6
+![PickleViewer with large Pickle file](https://raw.githubusercontent.com/Matix-Media/PickleViewer/master/docs/imgs/Anmerkung%202019-09-29%20170201.png)
+![PickleViewer open Pickle file](https://raw.githubusercontent.com/Matix-Media/PickleViewer/master/docs/imgs/Anmerkung%202019-09-29%20170756.png)
+
 ### What's new?
 - Bug fixes
 - Added debug mode
+- Better support and loading for large files
 
 ### How to install?
 The installation is very simple, you just have to run the stup and follow the instructions.
