@@ -1,8 +1,8 @@
-# Version 0.2
+## Version 0.2
 Contains old bugs and is very raw.
 
-## Infos
+### Infos
 It was the first public released version
 
-## Source info
+### Source info
 This Verson do not contains source files
