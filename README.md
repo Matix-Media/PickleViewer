@@ -17,6 +17,12 @@ With PickleViewer you can easily view and edit large Pickle Files.
 - Added treeview
 - Added update mode
 
+### Bugs:
+Of curse there are a few bugs in the latest version
+- No feedback when PickleViewer can't read file
+- Sometimes not able to clorizing the Editor
+- Bug in the updater System (Can't check for new updates)
+
 ### How to install?
 The installation is very simple, you just have to run the stup and follow the instructions.
 
