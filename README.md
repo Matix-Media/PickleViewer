@@ -1,4 +1,6 @@
+#1[PickleViewer Logo](https://raw.githubusercontent.com/Matix-Media/PickleViewer/master/docs/imgs/PickleViwerLogo.png)
 *(PickleViewer)*
+
 A simple tool to create and read pickle files.
 
 ### What can PickleViewer do?
