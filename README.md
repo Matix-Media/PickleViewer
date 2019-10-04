@@ -30,3 +30,7 @@ If you want to use the program in debug/wait mode you need to start the program 
 
 ## Older Versions
 For older versions, go into the folder versions, there you find every released version.
+
+## To-Do
+If you want to see what is being done on PickleViewer, follow the link to the Trello board
+https://trello.com/b/UWQxnyHJ/pickleviewer
