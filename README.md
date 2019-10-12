@@ -26,6 +26,7 @@ If you need help, look at the Menu. Click on Help > Help. There you have your be
 
 If you want to use the program in debug/wait mode you need to start the program via command line, add the parameter --wait and there you go.
 
+You can also force a update with the command line parameter --update
 
 ## Older Versions
 For older versions, go into the folder versions, there you find every released version.
