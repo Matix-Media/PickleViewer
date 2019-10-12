@@ -8,8 +8,7 @@
 
 ### Bugs:
 Of curse there are a few bugs in the version 0.7.5
-
-*--No bugs known--*
+- crash by opening invalid files with no text
 
 ### How to install?
 The installation is very simple, you just have to run the stup and follow the instructions.
