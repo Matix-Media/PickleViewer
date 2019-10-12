@@ -11,7 +11,7 @@ With PickleViewer you can easily view and edit large Pickle Files.
 ![PickleViewer open Pickle file](https://raw.githubusercontent.com/Matix-Media/PickleViewer/master/docs/imgs/Anmerkung%202019-09-29%20170756.png)
 
 ### What's new?
-- Bug fixes (crash by opening invalid files with no text)
+- Bug fixes (crash when opening invalid files with no text)
 
 ### Bugs:
 Of curse there are a few bugs in the latest version
