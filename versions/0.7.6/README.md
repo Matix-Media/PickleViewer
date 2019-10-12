@@ -1,7 +1,7 @@
 ## Version 0.7.6
 
 ### What's new?
-- Bug fixes (crash by opening invalid files with no text)
+- Bug fixes (crash when opening invalid files with no text)
 
 ### Bugs:
 Of curse there are a few bugs in the version 0.7.5
