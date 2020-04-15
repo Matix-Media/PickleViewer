@@ -15,8 +15,7 @@ With PickleViewer you can easily view and edit large Pickle Files.
 
 ### Bugs:
 Of curse there are a few bugs in the latest version
-
-*--No bugs known--*
+- You can not open Pickle files which have objects from 3rd party modules
 
 ### How to install?
 The installation is very simple, you just have to run the stup and follow the instructions.
